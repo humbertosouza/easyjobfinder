@@ -12,7 +12,6 @@ The product has the following main components:
 General App look and feel:
  
 ![alt text][pic]
-
 [pic]: https://github.com/humbertosouza/easyjobfinder/blob/master/documentation/app-croquis-v01.png  "App look"
 
 For login, a generic screen with sign in or sign up is expected.
@@ -22,17 +21,17 @@ Once she or he finishes, it is expected that she or he have a list of selected p
 
 ## Proposed AWS Cloud environment
 
-![alt text][pic]
+![alt text2][pic2]
 [pic2]: https://github.com/humbertosouza/easyjobfinder/blob/master/documentation/Emploid-mvp1.jpg "AWS architecture"
 
 ## First tasks
 
 * Understand LinkedIn and Glassdoor API s and limitations
-* Define the cloud or partner infrastructure where the project will be stored (AWS, Azure, GCP, partner,?)
-* Define the size of the moving window, in months: consider positions open from today to 1,2 or 3 months? 
-* Define the database to store the acquired data (Neo4G, Azure-Postgree, AWS-Postgree, MongoDB,?)
-* Define the core system for processing inputs and outputs (Python ?)
-* Design the API (Java/Spring, Python/ Flask, ? )
-* Define the technology for the front-end application (Ionic, React,?)
+* Define the cloud or partner infrastructure where the project will be stored - Defined - AWS
+* Define the size of the moving window, in months: consider positions open from today to 1,2, 3 months. Defined: 1 month? 
+* Define the database to store the acquired data (Neo4G, Azure-Postgree, AWS-Postgree, MongoDB,?) - Defined - CSV files on S3 buckets
+* Define the core system for processing inputs and outputs - Defined - Python
+* Design the API (Java/Spring, Python/ Flask, ? ) - TBD
+* Define the technology for the front-end application (Ionic, React,?) - TBD
 * Wireframe the mobile application - Done
 
