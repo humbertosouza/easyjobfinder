@@ -12,7 +12,7 @@ The product has the following main components:
 App look and feel: 
 ![alt text][pic]
 
-[pic]: https://github.com/humbertosouza/easyjobfinder/documentation/app-croquis-v01.png "App look"
+[pic]: https://github.com/humbertosouza/easyjobfinder/blob/master/documentation/app-croquis-v01.png  "App look"
 
 ## Proposed AWS Cloud environment
 
