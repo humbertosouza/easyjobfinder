@@ -11,8 +11,7 @@ The product has the following main components:
 
 General App look and feel:
  
-![alt text][pic]
-[pic]: https://github.com/humbertosouza/easyjobfinder/blob/master/documentation/app-croquis-v01.png  "App look"
+![App wireframe1](https://github.com/humbertosouza/easyjobfinder/blob/master/documentation/app-croquis-v01.png)
 
 For login, a generic screen with sign in or sign up is expected.
 Once signed in, it is expected that the user uploads his resume, main keywords and the city where she or he would like to work
@@ -21,8 +20,7 @@ Once she or he finishes, it is expected that she or he have a list of selected p
 
 ## Proposed AWS Cloud environment
 
-![alt text2][pic2]
-[pic2]: https://github.com/humbertosouza/easyjobfinder/blob/master/documentation/Emploid-mvp1.jpg "AWS architecture"
+![AWS Blueprint](https://github.com/humbertosouza/easyjobfinder/blob/master/documentation/Emploid-mvp1.jpg)
 
 ## First tasks
 
