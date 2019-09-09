@@ -7,6 +7,18 @@ The product has the following main components:
 * REST API for client application
 * UX via Mobile application
 
+## Proposed app/responsible site design
+
+App look and feel: 
+![alt text][pic]
+
+[pic]: https://github.com/humbertosouza/easyjobfinder/documentation/app-croquis-v01.png "App look"
+
+## Proposed AWS Cloud environment
+
+
+
+
 ## First tasks
 
 * Understand LinkedIn and Glassdoor API s and limitations
