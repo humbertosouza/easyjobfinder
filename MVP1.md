@@ -9,15 +9,21 @@ The product has the following main components:
 
 ## Proposed app/responsible site design
 
-App look and feel: 
+General App look and feel:
+ 
 ![alt text][pic]
 
 [pic]: https://github.com/humbertosouza/easyjobfinder/blob/master/documentation/app-croquis-v01.png  "App look"
 
+For login, a generic screen with sign in or sign up is expected.
+Once signed in, it is expected that the user uploads his resume, main keywords and the city where she or he would like to work
+
+Once she or he finishes, it is expected that she or he have a list of selected position title, company having a link to an URLs to the original site.
+
 ## Proposed AWS Cloud environment
 
-
-
+![alt text][pic]
+[pic2]: https://github.com/humbertosouza/easyjobfinder/blob/master/documentation/Emploid-mvp1.jpg "AWS architecture"
 
 ## First tasks
 
@@ -28,5 +34,5 @@ App look and feel:
 * Define the core system for processing inputs and outputs (Python ?)
 * Design the API (Java/Spring, Python/ Flask, ? )
 * Define the technology for the front-end application (Ionic, React,?)
-* Wireframe the mobile application
+* Wireframe the mobile application - Done
 
